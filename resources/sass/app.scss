@@ -1,0 +1,80 @@
+// @import "./spark/spark";
+@import "./../../vendor/laravel/spark-aurelius/resources/assets/sass/spark";
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.add-site {
+  background: -moz-linear-gradient(93deg, rgba(242,121,57,1) 66%, rgba(238,74,94,1) 100%);
+  background: -webkit-linear-gradient(93deg, rgba(242,121,57,1) 66%, rgba(238,74,94,1) 100%);
+  background: linear-gradient(93deg, rgba(242,121,57,1) 66%, rgba(238,74,94,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f27939",endColorstr="#ee4a5e",GradientType=1);
+  -webkit-box-shadow: 5px 7px 18px -5px rgba(0,0,0,0.5);
+  -moz-box-shadow: 5px 7px 18px -5px rgba(0,0,0,0.5);
+  box-shadow: 5px 7px 18px -5px rgba(0,0,0,0.5);
+  border: none;
+  color: #FFF;
+}
+
+.submit-button {
+  background-color: #F16334;
+  background: -moz-linear-gradient(93deg, rgba(242,121,57,1) 66%, rgba(238,74,94,1) 100%);
+  background: -webkit-linear-gradient(93deg, rgba(242,121,57,1) 66%, rgba(238,74,94,1) 100%);
+  background: linear-gradient(93deg, rgba(242,121,57,1) 66%, rgba(238,74,94,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f27939",endColorstr="#ee4a5e",GradientType=1);
+  border: none;
+  color: #FFF;
+}
+
+.ntk-input {
+  height: 50px;
+}
+
+.purple-title {
+  color: #6C38A0;
+}
+
+.orange-header {
+  background: -moz-linear-gradient(93deg, rgba(242,121,57,1) 66%, rgba(238,74,94,1) 100%);
+  background: -webkit-linear-gradient(93deg, rgba(242,121,57,1) 66%, rgba(238,74,94,1) 100%);
+  background: linear-gradient(93deg, rgba(242,121,57,1) 66%, rgba(238,74,94,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f27939",endColorstr="#ee4a5e",GradientType=1);
+  color: #FFF;
+  border: none;
+  height:45px !important;
+}
+
+.navbar-purple {
+  background: rgb(53,21,82);
+  background: -moz-linear-gradient(317deg, rgba(53,21,82,1) 19%, rgba(108,56,160,1) 55%);
+  background: -webkit-linear-gradient(317deg, rgba(53,21,82,1) 19%, rgba(108,56,160,1) 55%);
+  background: linear-gradient(317deg, rgba(53,21,82,1) 19%, rgba(108,56,160,1) 55%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#351552",endColorstr="#6c38a0",GradientType=1);
+}
+
+.background-purple {
+  background: rgb(53,21,82);
+  background: -moz-linear-gradient(317deg, rgba(53,21,82,1) 19%, rgba(108,56,160,1) 55%);
+  background: -webkit-linear-gradient(317deg, rgba(53,21,82,1) 19%, rgba(108,56,160,1) 55%);
+  background: linear-gradient(317deg, rgba(53,21,82,1) 19%, rgba(108,56,160,1) 55%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#351552",endColorstr="#6c38a0",GradientType=1);
+  height: 1vh;
+}
+
+.white-link {
+  color: #FFF !important;
+}
+
+.nav-inactive {
+  color: #F16334 !important;
+}
+
+.footer-fade {
+  color: grey !important;
+}
+
+.source-logo {
+  width: 18rem !important;
+}
